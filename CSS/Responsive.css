@@ -1,0 +1,29 @@
+body{
+  margin: 0pt;
+  background-color: white;
+}
+
+html {
+  font-family: "Calibri", sans-serif;
+}
+
+
+.title_bar{
+  color: pink;
+  font-size: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+.image{
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+
+.message{
+  text-align: center;
+  width:100%;
+  font-size: 25px;
+  color: orange;
+}
